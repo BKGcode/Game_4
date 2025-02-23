@@ -20,6 +20,7 @@
     "com.unity.render-pipelines.universal": "17.0.3",
     "com.unity.services.analytics": "6.0.2",
     "com.unity.services.cloud-build": "1.0.5",
+    "com.unity.shadergraph": "17.0.3",
     "com.unity.toolchain.win-x86_64-linux-x86_64": "2.0.10",
     "com.unity.ugui": "2.0.0",
     "com.unity.visualeffectgraph": "17.0.3",
