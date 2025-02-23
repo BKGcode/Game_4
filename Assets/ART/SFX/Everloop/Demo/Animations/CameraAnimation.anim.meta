@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bb96acad6abee1b4484e3e85281d9f79
+timeCreated: 1440901304
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 45205
+  packageName: 'Everloop: Nonlinear Soundtrack'
+  packageVersion: 1.9.0
+  assetPath: Assets/Everloop/Demo/Animations/CameraAnimation.anim
+  uploadId: 688815

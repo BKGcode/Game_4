@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 94f2d3f9fb8581f459b53eab70f7fd8a
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155189
+  packageName: Databox - Data editor & save solution
+  packageVersion: 1.4
+  assetPath: Assets/Databox/Core/Editor/Databox.Editor.asmdef
+  uploadId: 500058

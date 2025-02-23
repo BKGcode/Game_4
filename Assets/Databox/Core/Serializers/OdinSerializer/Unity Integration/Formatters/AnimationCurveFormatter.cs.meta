@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f4caeffb7edd96cb55e77bf7c209c2af
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155189
+  packageName: Databox - Data editor & save solution
+  packageVersion: 1.4
+  assetPath: Assets/Databox/Core/Serializers/OdinSerializer/Unity Integration/Formatters/AnimationCurveFormatter.cs
+  uploadId: 500058

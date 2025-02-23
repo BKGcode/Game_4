@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2c264a0124b542242a78453c67ddc976
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155189
+  packageName: Databox - Data editor & save solution
+  packageVersion: 1.4
+  assetPath: Assets/Databox/README.asset
+  uploadId: 500058

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e4e9727a5dd82d146afa6abdbfdf4e33
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155189
+  packageName: Databox - Data editor & save solution
+  packageVersion: 1.4
+  assetPath: Assets/Databox/PlayMaker/Actions/ResetTable.cs
+  uploadId: 500058

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 03b1c13dc46e7e448979056c2af3de25
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155189
+  packageName: Databox - Data editor & save solution
+  packageVersion: 1.4
+  assetPath: Assets/Databox/Core/Utils/ExitGUIUtility.cs
+  uploadId: 500058

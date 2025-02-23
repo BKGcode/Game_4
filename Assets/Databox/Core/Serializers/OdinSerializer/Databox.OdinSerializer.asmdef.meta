@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dbdfeb87593fcd5c8c99a01e1fc54654
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155189
+  packageName: Databox - Data editor & save solution
+  packageVersion: 1.4
+  assetPath: Assets/Databox/Core/Serializers/OdinSerializer/Databox.OdinSerializer.asmdef
+  uploadId: 500058

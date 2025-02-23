@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9029f90cf5670de4ab94fec65ec14e07
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155189
+  packageName: Databox - Data editor & save solution
+  packageVersion: 1.4
+  assetPath: Assets/Databox/Types/Vector4Type.cs
+  uploadId: 500058

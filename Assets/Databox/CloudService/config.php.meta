@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 03a10a526206ca54bbc1077a34606563
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155189
+  packageName: Databox - Data editor & save solution
+  packageVersion: 1.4
+  assetPath: Assets/Databox/CloudService/config.php
+  uploadId: 500058

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1742233ac65477d42a7420a7418d8f12
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155189
+  packageName: Databox - Data editor & save solution
+  packageVersion: 1.4
+  assetPath: Assets/Databox/PlayMaker/DataboxPlayMakerVariableDefinition.asset
+  uploadId: 500058

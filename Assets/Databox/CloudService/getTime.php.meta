@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5fc09851987ba8c4ab09d857f5661a28
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155189
+  packageName: Databox - Data editor & save solution
+  packageVersion: 1.4
+  assetPath: Assets/Databox/CloudService/getTime.php
+  uploadId: 500058

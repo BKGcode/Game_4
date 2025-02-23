@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bc9486cc14ffd1949adcd28cdaa57fb6
+timeCreated: 1440304557
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 45205
+  packageName: 'Everloop: Nonlinear Soundtrack'
+  packageVersion: 1.9.0
+  assetPath: Assets/Everloop/Demo/EverloopLayersDemo.unity
+  uploadId: 688815

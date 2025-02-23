@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: db6555ceb81d6aa41a54f5da66a64a00
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155189
+  packageName: Databox - Data editor & save solution
+  packageVersion: 1.4
+  assetPath: Assets/Databox/Core/Serializers/FullSerializer/Databox.FullSerializer.asmdef
+  uploadId: 500058

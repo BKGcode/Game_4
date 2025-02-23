@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d3c5f4304532b4f458d50a29d5d06960
+timeCreated: 1455613392
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 45205
+  packageName: 'Everloop: Nonlinear Soundtrack'
+  packageVersion: 1.9.0
+  assetPath: Assets/Everloop/Demo/Scripts/LayerToggleListener.cs
+  uploadId: 688815

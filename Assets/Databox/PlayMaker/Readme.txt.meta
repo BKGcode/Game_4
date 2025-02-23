@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 068bcdabf75b7ee45a5d1cf36bf5870b
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155189
+  packageName: Databox - Data editor & save solution
+  packageVersion: 1.4
+  assetPath: Assets/Databox/PlayMaker/Readme.txt
+  uploadId: 500058

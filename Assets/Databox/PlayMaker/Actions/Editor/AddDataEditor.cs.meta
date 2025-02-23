@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: db3d282aa36fc9a48b992b5643062fc2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155189
+  packageName: Databox - Data editor & save solution
+  packageVersion: 1.4
+  assetPath: Assets/Databox/PlayMaker/Actions/Editor/AddDataEditor.cs
+  uploadId: 500058

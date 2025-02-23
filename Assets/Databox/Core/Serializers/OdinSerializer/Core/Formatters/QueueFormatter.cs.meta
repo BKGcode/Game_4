@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4fb5a9e95696f7f6849eaacae74ea035
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155189
+  packageName: Databox - Data editor & save solution
+  packageVersion: 1.4
+  assetPath: Assets/Databox/Core/Serializers/OdinSerializer/Core/Formatters/QueueFormatter.cs
+  uploadId: 500058

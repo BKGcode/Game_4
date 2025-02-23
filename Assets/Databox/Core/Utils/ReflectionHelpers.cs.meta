@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3021d7efd7a7ad14e981c72da729090c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155189
+  packageName: Databox - Data editor & save solution
+  packageVersion: 1.4
+  assetPath: Assets/Databox/Core/Utils/ReflectionHelpers.cs
+  uploadId: 500058

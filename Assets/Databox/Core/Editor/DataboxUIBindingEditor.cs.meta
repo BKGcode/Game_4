@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 11bbc95edd45f1d429de2ecc733d8445
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155189
+  packageName: Databox - Data editor & save solution
+  packageVersion: 1.4
+  assetPath: Assets/Databox/Core/Editor/DataboxUIBindingEditor.cs
+  uploadId: 500058

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 68c66acae073bd0c4cb7fdcd200c8ba9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155189
+  packageName: Databox - Data editor & save solution
+  packageVersion: 1.4
+  assetPath: Assets/Databox/Core/Serializers/OdinSerializer/Core/Formatters/ArrayFormatter.cs
+  uploadId: 500058

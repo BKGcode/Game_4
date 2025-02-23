@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3bafa3f1e691c60f6b8bbe3183be2147
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155189
+  packageName: Databox - Data editor & save solution
+  packageVersion: 1.4
+  assetPath: Assets/Databox/Core/Serializers/OdinSerializer/Core/Misc/ISerializationPolicy.cs
+  uploadId: 500058

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 204a33f32af783f80cf6f0a154ae319b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155189
+  packageName: Databox - Data editor & save solution
+  packageVersion: 1.4
+  assetPath: Assets/Databox/Core/Serializers/OdinSerializer/Unity Integration/Formatters/GradientAlphaKeyFormatter.cs
+  uploadId: 500058

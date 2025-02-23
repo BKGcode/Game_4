@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e084df76271aa9844868f1d29dd1613d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155189
+  packageName: Databox - Data editor & save solution
+  packageVersion: 1.4
+  assetPath: Assets/Databox/Core/CSV/CSVReader/CSVWriter.cs
+  uploadId: 500058

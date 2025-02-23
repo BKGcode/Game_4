@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4ecf35189f52ef34394e4562b740fc5a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155189
+  packageName: Databox - Data editor & save solution
+  packageVersion: 1.4
+  assetPath: Assets/Databox/Core/Editor/DataboxSchemesEditor.cs
+  uploadId: 500058
